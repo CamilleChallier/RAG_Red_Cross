@@ -1,0 +1,17 @@
+numpy
+pandas
+llama-index
+datasets
+transformers
+ragatouille
+llama-index-retrievers-bm25
+llama-index-embeddings-huggingface
+# llama-index-llms-llama-cpp
+llama-index-postprocessor-colbert-rerank
+FlagEmbedding
+llama-index-postprocessor-flag-embedding-reranker
+seaborn
+matplotlib
+torch==2.0.1
+torchvision==0.15.2 
+torchaudio==2.0.2
